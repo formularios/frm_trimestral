@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\bin\Debug\CtrlDocentes.exe.config
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\bin\Debug\CtrlDocentes.exe
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\bin\Debug\CtrlDocentes.pdb
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\bin\Debug\CtrlDocentes.xml
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.Form1.resources
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.Resources.resources
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.exe
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.xml
+C:\Users\HP\source\repos\CtrlDocentes\CtrlDocentes\obj\Debug\CtrlDocentes.pdb
